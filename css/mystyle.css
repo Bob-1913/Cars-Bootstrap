@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+.jumbotron {
+	color: cornflowerblue;
+	background-image: url("../images/BMWM4wallpaper.jpg");
+	background-size: 100%;
+}
+
+body {
+	
+}
